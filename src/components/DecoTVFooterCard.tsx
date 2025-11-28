@@ -60,14 +60,14 @@ const DecoTVFooterCard = () => {
             </div>
 
             {/* Powered By Section */}
-            <div className='space-y-2'>
+            {/* <div className='space-y-2'>
               <p className='text-sm sm:text-base font-medium text-gray-500 dark:text-gray-400 uppercase tracking-widest'>
                 Powered by
               </p>
               <p className='text-2xl sm:text-3xl font-bold bg-gradient-to-r from-gray-800 via-gray-600 to-gray-800 dark:from-white dark:via-gray-200 dark:to-white bg-clip-text text-transparent'>
                 Katelya
               </p>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
